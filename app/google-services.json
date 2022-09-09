@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075064362536",
+    "project_id": "bancobradesco-ca713",
+    "storage_bucket": "bancobradesco-ca713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075064362536:android:2e5967a13a6e66451c871d",
+        "android_client_info": {
+          "package_name": "com.example.bancobradesco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075064362536-qoviku578qtft5mm52rjjhvjh7u0162f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmb2mqtrDzpwkgUv0-Isj9oryF-T-3t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075064362536-qoviku578qtft5mm52rjjhvjh7u0162f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
